@@ -1,0 +1,25 @@
+@media only screen and (max-width: 1100px) {
+  .nav {
+    width: 1000px;
+    /* display: none; */
+  }
+  .wrapper {
+    width: 100px;
+  }
+  .wrapperLeft{
+    width: 600px;
+    height: 420px;
+  }
+  .wrapper img {
+    width: 550px;
+  }
+}
+/* 
+@media only screen and (max-width: 768px) {
+  .navCenter {
+    display: none;
+  }
+  .navRight {
+    display: none;
+  }
+} */
