@@ -103,6 +103,9 @@ nav select:first-child {
   height: 40px;
   background: #1749b3;
   border-radius: 12px;
+}
+
+.nav button a{
   color: white;
   font-size: 17px;
   font-weight: 700;
