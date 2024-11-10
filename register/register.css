@@ -56,7 +56,7 @@ button {
     font-size: 25px;
 }
 
-.loginTop h2 {
+.loginTop h2 a {
     font-weight: 700;
     font-size: 32px;
     color: #171717;
